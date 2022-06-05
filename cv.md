@@ -15,7 +15,8 @@ not be enough time for both me and you.
 
 ## Education
 
-| --- | --- | --- |
-__1995 - 2004__ | Scool with in-depth study of German language | none
-__2004 - 2005__ | Physics and Mathematics Lyceum named after Bauman | Radio electronics specialty
-__2005 - 2010__ | Bauman Moscow State Technical University | Lawyer - Civil Law
+---|---|---
+__1995 - 2004__|Scool with in-depth study of German language|none
+__2004 - 2005__|Physics and Mathematics Lyceum named after Bauman|Radio electronics specialty
+__2005 - 2010__|Bauman Moscow State Technical University|Lawyer - Civil Law
+
