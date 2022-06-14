@@ -1,0 +1,118 @@
+@font-face {
+    font-family: AlumniSans;
+    src: url("./assets/fonts/AlumniSans-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: AlumniSans;
+    src: url("./assets/fonts/AlumniSans-Medium.ttf");
+}
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+
+body {
+    font-family: 'AlumniSans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+* {
+    box-sizing: border-box;    
+}
+
+.header {
+            border: 1px solid #FF7F50;
+            background-color: #FAEBD7;
+}
+
+.main {
+        border: 1px solid #FF7F50;
+        font-size: 20px;
+        background-color: #DEB887;
+}
+
+.footer {
+        border: 1px solid #FF7F50;
+        background-color: #8B4513;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+}
+
+.section-item a {
+    color: #829985;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+.section-item a:hover { 
+    color: #4d2323;
+}
+
+table {
+    border: 1px solid rgb(231, 225, 225);
+    border-collapse: collapse;
+}
+th {
+    border: 3px solid black;
+    background-color: grey;
+    font-size: 30px;
+}
+td {    
+    border: 2px solid grey;
+    font-size: 20px; 
+
+}
+html {
+    scroll-behavior: smooth;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    }
+.section {
+    width: 50%;
+}
+.nav-link {
+    text-decoration: none;
+    color: #4d2323;
+    transition: color 0.5s;
+    font-size: 20px;
+}
+.nav-link:hover {
+    color: #829985;
+    font-size: 22px;
+}
+.link-github {
+    text-decoration: none;
+    color: black;
+    transition: color 0.5s;
+    font-size: 20px;
+}
+.link-github:hover {
+    color: rgb(44, 44, 44);
+}
